@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5275e88a-8d7a-403e-9670-08ae4cfdd488" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/src/JavaExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/src/ListExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/src/MapExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/tests/DessertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/tests/JavaExercisesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/tests/ListExercisesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw0b/tests/MapExercisesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/greeting57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/heart25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input1-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input10-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input2-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input8-dups.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input8-no.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/jerry47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/michael61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/sedgewick60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/snake1001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/snake101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/snake13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/snake501.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/wayne98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/inputFiles/wayne98b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/PercolationPicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/PercolationStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/tests/PercolationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab02/src/bomb/Bomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab02/src/bomb/BombMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab02/src/common/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab02/tests/bomb/BombTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/AdventureGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/AdventureStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/AdventureUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/BeeCountingStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/FillerStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/MachineStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/PalindromeStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/adventure/SpeciesListStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/common/IntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/puzzle/Puzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/src/puzzle/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/adventure/AdventureGameTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/AdventureGame/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/AdventureGame/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/BeeCountingStage/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/BeeCountingStage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/MachineStage/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/MachineStage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/PalindromeStage/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/PalindromeStage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/SpeciesListStage/answers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/data/SpeciesListStage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/helpers/CaptureSystemOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/puzzle/PuzzleReference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab03/tests/puzzle/PuzzleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab04/magic_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/src/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/tests/UnionFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/Map61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/ULLMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/speedTestResults.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/tests/InsertRandomSpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/tests/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/tests/TestBSTMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/tests/TestBSTMapExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab07/src/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab07/tests/TestRedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/src/hashmap/Map61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/src/hashmap/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/src/hashmap/ULLMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/src/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/hashmap/MyHashMapFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/hashmap/TestMyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/hashmap/TestMyHashMapBuckets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/hashmap/TestMyHashMapExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/speed/BucketsSpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/speed/InsertInOrderSpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/speed/InsertRandomSpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab08/tests/speed/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/patterns/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/patterns/glidergun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/patterns/hammerhead.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/patterns/pentadecathlon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/gameoflife/BoringWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/gameoflife/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/gameoflife/RandomWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/save.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/tileengine/TERenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/tileengine/TETile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/tileengine/Tileset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/src/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/tests/GameOfLifeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/tests/testFiles/loadTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab09/tests/testFiles/saveTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/magic_word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tetris/BagRandomizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tetris/Movement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tetris/Tetris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tetris/Tetromino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tileengine/TERenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tileengine/TETile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/tileengine/Tileset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/utils/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048logic/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/BoardWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/Side.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/src/game2048rendering/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestAtLeastOneMoveExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestEmptySpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestMaxTileExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestMoveTileUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestMultipleMoves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestNbyN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestTiltColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestTiltMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestTiltNoMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestUpOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj0/tests/game2048logic/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/src/Deque61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/tests/LinkedListDeque61BTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1a/tests/PreconditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/src/Deque61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/tests/ArrayDeque61BPreconditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1b/tests/ArrayDeque61BTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/deque/ArrayDeque61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/deque/Deque61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/deque/LinkedListDeque61B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/gh2/GuitarHeroLite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/gh2/GuitarPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/gh2/GuitarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/src/gh2/TTFAF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/tests/MaxArrayDeque61BTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj1c/tests/TestGuitarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/browser/NgordnetQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/browser/NgordnetQueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/browser/NgordnetServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/main/DummyHistoryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/main/DummyHistoryTextHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/main/FileReadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/main/PlotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/ngrams/NGramMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/ngrams/TimeSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/plotting/Plotter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/src/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/static/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/static/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/static/ngordnet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/static/ngordnet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/static/ngordnet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/static/ngordnet_2a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/tests/HistoryTextHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/tests/NGramMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2a/tests/TimeSeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/browser/NgordnetQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/browser/NgordnetQueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/browser/NgordnetQueryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/browser/NgordnetServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/main/AutograderBuddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/main/DummyHistoryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/main/DummyHistoryTextHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/main/FileReadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/main/HyponymsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/static/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/static/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/static/ngordnet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/static/ngordnet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/static/ngordnet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/tests/TestMultiWordK0Hyponyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2b/tests/TestOneWordK0Hyponyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/browser/NgordnetQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/browser/NgordnetQueryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/browser/NgordnetQueryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/browser/NgordnetServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/main/AutograderBuddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/main/DummyHistoryHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/main/DummyHistoryTextHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/main/FileReadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/main/PlotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/src/plotting/Plotter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/ngordnet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/ngordnet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/ngordnet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/tests/TestCommonAncestors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/tests/TestOneWordKNot0Hyponyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/core/AutograderBuddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/core/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/core/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/tileengine/TERenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/tileengine/TETile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/tileengine/Tileset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/src/utils/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/tests/WorldGenTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tAtrPCayl4VFDj9zlHxaGKLo96" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/大五/开爬/class/cs61b/library-sp24&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;应用程序.Arithmetic.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ArithmeticTest">
+    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arithmetic" />
+      <module name="lab01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArithmeticTest" />
+        <item itemvalue="Application.Arithmetic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5275e88a-8d7a-403e-9670-08ae4cfdd488" name="更改" comment="" />
+      <created>1739806905137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739806905137</updated>
+    </task>
+    <servers />
+  </component>
+</project>
